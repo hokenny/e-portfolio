@@ -1,4 +1,4 @@
 # e-portfolio
-first e-portfolio
+e-portfolio
 
-This is my first attempt at creating an eportfolio using html and css
+First e-portfolio, will create a new portfolio soon in the future!
